@@ -1,0 +1,12 @@
+{
+    "name": "bug",
+    "version": "1.0.0",
+    "description": "",
+    "dependencies": {
+        "@eversdk/appkit": "^0",
+        "@eversdk/core": "^1.37.2",
+        "@eversdk/lib-node": "^1.37.2"
+    },
+    "author": "",
+    "license": "ISC"
+}
